@@ -1,1 +1,1 @@
-Folder containing a copule of fun animations I made using CSS and HTML.
+Folder containing a couple of fun animations I made using CSS and HTML.
