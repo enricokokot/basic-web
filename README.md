@@ -8,3 +8,5 @@ My [progressRocket](https://enricokokot.github.io/progressRocket) loading icon.
 My [progressWave](https://enricokokot.github.io/progressWave/) loading icon.
 
 My [buttonLiquid](https://enricokokot.github.io/buttonLiquid/) animated button.
+
+My [darkMode](https://enricokokot.github.io/darkMode/) switch.
