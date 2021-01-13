@@ -1,14 +1,24 @@
-# My (Currently) Humble Repository
+# My Humble Portfolio
 My [CheckiO profile](https://py.checkio.org/user/PinoElPinguino/).
 
 My Infobip Virtual Classroom 2020 [Diploma](InfobipDiploma2020.pdf).
 
-## Heatlhcare system database group project
-I worked in a team of four on a database project in college. The goal of the project was to create a basic working model of a country's healthcare system and associated documentation to test our knowledge. I was responsible for devising and creating 80% of the queries and helping edit the documentation.
-Here's the [documentation](Dokumentacija-BP-Medicina.pdf) in croatian.
+## Healthcare System Database Group Project
+<img src="https://drive.google.com/uc?export=view&id=1C2tMOLd0e9-8RKnde4ZpoFRlxWtlOmd4" width="600">
 
-## Office chatbot project
+I worked in a team of four on a database project  for the *Databases 1* class in college. The goal of the project was to create a basic working model of a country's healthcare system and associated documentation to test our knowledge. I was responsible for devising and creating 80% of the queries and helped edit the documentation.
+
+Here's the related [repository](https://github.com/enricokokot/Zdravstveni-Sustav-DB) in croatian.
+
+## Office Chatbot Project
+<img src="https://drive.google.com/uc?export=view&id=1KUyXzlDdIhFlN-geZ6SoHxp0-IpD3xQV">
+
 I took on the team leading role for the *Chatbot in the Office* presentation for the college class *Office Work Computerization* . My responsibilities consisted of deciding on the game plan, monitoring the whole development of the presentation side and creating a simple chatbot using Bot Framework Composer.
+
+Here's the [source code](https://github.com/enricokokot/ButtonBot) of the chatbot.
+
+## Data Science Group Project
+I'm currently the leader in a five person team concerned with population statistics in Croatia for the *Statistics* class. We are planning on finding factors which correlate with a county's well-being.
 
 ## My web doodles
 A Couple of very basic animations I made in my spare time while playing with these tools.
