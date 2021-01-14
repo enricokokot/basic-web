@@ -21,7 +21,7 @@ Here's the [source code](https://github.com/enricokokot/ButtonBot) of the chatbo
 ## Data Science Group Project
 I'm currently the leader in a five person team concerned with population statistics in Croatia for the *Statistics* class. We are planning on finding factors which correlate with a county's well-being using **Python**.
 
-## Design Website
+## Multimedia Editing Website
 I created a website for the *Multimedia Systems* class using **WordPress** where I published a couple of my works created in various multimedia editing software.
 
 Here's the whole [website](https://enricokokot.wordpress.com/).
