@@ -24,7 +24,7 @@ I'm currently the leader in a five person team concerned with population statist
 ## Multimedia Editing Website
 I created a website for the *Multimedia Systems* class using **WordPress** where I published a couple of my works created in various multimedia editing software.
 
-Here's the whole [website](https://enricokokot.wordpress.com/).
+Here's the whole [website](https://enricokokot.wordpress.com/) in croatian.
 
 ## Web Doodles
 A few basic animations I made in my spare time while playing with **HTML and CSS**.
