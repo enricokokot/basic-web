@@ -1,8 +1,7 @@
 # Enrico Kokot's Portfolio
 ## Various Achievements
-My [CheckiO profile](https://py.checkio.org/user/PinoElPinguino/).
-
-My Infobip Virtual Classroom 2020 [Diploma](InfobipDiploma2020.pdf).
+* My [CheckiO profile](https://py.checkio.org/user/PinoElPinguino/).
+* My Infobip Virtual Classroom 2020 [Diploma](InfobipDiploma2020.pdf).
 
 ## Healthcare System Database Group Project
 <img src="https://drive.google.com/uc?export=view&id=1C2tMOLd0e9-8RKnde4ZpoFRlxWtlOmd4" width="600">
