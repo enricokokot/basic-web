@@ -1,7 +1,4 @@
 # Enrico Kokot's Portfolio
-## Various Achievements
-* My [CheckiO profile](https://py.checkio.org/user/PinoElPinguino/).
-* My Infobip Virtual Classroom 2020 [Diploma](InfobipDiploma2020.pdf).
 
 ## Healthcare System Database Group Project
 <img src="https://drive.google.com/uc?export=view&id=1C2tMOLd0e9-8RKnde4ZpoFRlxWtlOmd4" width="600">
@@ -32,3 +29,7 @@ All credit goes to the [Online Tutorials](https://www.youtube.com/c/OnlineTutori
 * [buttonLiquid](https://enricokokot.github.io/buttonLiquid/) animated button - a clickable button with liquid animation inside which reacts to the cursor
 * [darkMode](https://enricokokot.github.io/darkMode/) switch - a clickable dark/light mode switch
 <!-- * [progressWave](https://enricokokot.github.io/progressWave/) loading icon -->
+
+## Various Achievements
+* My [CheckiO profile](https://py.checkio.org/user/PinoElPinguino/).
+* My Infobip Virtual Classroom 2020 [Diploma](InfobipDiploma2020.pdf).
