@@ -8,7 +8,7 @@ During my time as a *mobile app developer intern at Lloyds Digital* I was given 
 [You can find the app's source code here.](https://github.com/enricokokot/crypto-tracker-app)
 
 ## Demographics of Croatia Group Project
-<img src="https://lh5.googleusercontent.com/3b2-QRn-3rb60gaWQE8b31SlpHbNhIKidtFQxZnqV9lpNhFJ7Jz1Z50Avk57WrZqnfjVX-6rT_BfGvNs9VXy=w1278-h1319-rw" width="600">
+<img src="https://drive.google.com/file/d/1f6jCeF1WxLtGbOzXE6FXFps7KFf0PTHo/view?usp=sharing" width="600">
 
 I led a five person team concerned with population statistics in Croatia for the *Statistics* class. We graphically presented numbers concerning different aspects of our society including religiousness, minorities and centralization through history using **Python**.
 
