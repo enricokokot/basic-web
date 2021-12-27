@@ -15,7 +15,7 @@ During my time as a *mobile app developer intern at Lloyds Digital* I was given 
   
 I led a five person team concerned with population statistics in Croatia for the *Statistics* class. We graphically presented numbers concerning different aspects of our society including religiousness, minorities and centralization through history using **Python**.
 
-[Here's the project's repository in croatian.](https://github.com/enricokokot/2021-HR-census-prediction)
+[Here's the project's repository in croatian.](https://github.com/enricokokot/Demographics-of-Croatia-2021)
 
 ## Healthcare System Database Group Project
 <img src="https://drive.google.com/uc?export=view&id=1C2tMOLd0e9-8RKnde4ZpoFRlxWtlOmd4" width="600">
