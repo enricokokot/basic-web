@@ -1,7 +1,7 @@
 # Enrico Kokot's Portfolio
 
 ## Cryptocurrency Tracking App
-[![CryptoTrackerAppDemo]({https://drive.google.com/file/d/1C2tMOLd0e9-8RKnde4ZpoFRlxWtlOmd4/view?usp=sharing})]({https://drive.google.com/file/d/17Fu5YT4uEcdjKOfFRh8jaV3yad4VLk3T/view?usp=sharing} "CryptoTrackerAppDemo")
+<img src="https://github.com/enricokokot/my-projects/blob/main/crypto-tracker-demo.png?raw=true" width="1000">
 
 During my time as a *mobile app developer intern at Lloyds Digital* I was given the task to learn as much of the technologies they use as I can in the month that was given to me. I worked with **React Native**, **TypeScript**, MobX-State-Tree, React Query and other tools and libraries in order to create a simple multi-page mobile application for tracking cryptocurrency prices and market volume.
 
