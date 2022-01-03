@@ -45,5 +45,6 @@ All credit goes to the [Online Tutorials](https://www.youtube.com/c/OnlineTutori
 <!-- * [progressWave](https://enricokokot.github.io/progressWave/) loading icon -->
 
 ## Various Achievements
-* My [CheckiO profile](https://py.checkio.org/user/PinoElPinguino/).
+* My Lloyds Design [Certificate of Internship](https://raw.githubusercontent.com/enricokokot/my-projects/main/lloyds-souvenirs.jpg).
 * My Infobip Virtual Classroom 2020 [Diploma](InfobipDiploma2020.pdf).
+* My [CheckiO profile](https://py.checkio.org/user/PinoElPinguino/).
