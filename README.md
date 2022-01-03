@@ -8,7 +8,7 @@ During my time as a *mobile app developer intern at Lloyds Digital* I was given 
 [You can find the app's source code here.](https://github.com/enricokokot/crypto-tracker-app)
 
 ## Demographics of Croatia Group Project
-<div style="display: flex; justify-content: space-around; align-items: center">
+<div>
   <img src="https://github.com/enricokokot/my-projects/blob/main/centralization-croatia-zagreb.gif?raw=true" width="40%"">
   <img src="https://github.com/enricokokot/my-projects/blob/main/centralization-europe.png?raw=true" width="47%"">
 </div>
