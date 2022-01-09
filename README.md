@@ -32,7 +32,7 @@ I took on the team leading role for the *Chatbot in the Office* presentation for
 [Here's the source code of the chatbot.](https://github.com/enricokokot/ButtonBot)
 
 ## Multimedia Editing Website
-I created a website for the *Multimedia Systems* class using **WordPress** where I published a couple of my works created in various multimedia editing software.
+I created a website for the *Multimedia Systems* class using **WordPress** where I published a couple of my works created in the following multimedia editing software: **Inkspace**, **GIMP**, **Blender**, **Scribus**, **Reaper**.
 
 [Here's the website in croatian.](https://enricokokot.wordpress.com/)
 
