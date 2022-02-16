@@ -47,4 +47,5 @@ All credit goes to the [Online Tutorials](https://www.youtube.com/c/OnlineTutori
 ## Various Achievements
 * My Lloyds Design [Certificate of Internship](https://raw.githubusercontent.com/enricokokot/my-projects/main/lloyds-souvenirs.jpg).
 * My Infobip Virtual Classroom 2020 [Diploma](InfobipDiploma2020.pdf).
+* My Advanced Python Course [Certificate of Completion](Programiranje_u_Pythonu___webinar_(D460)-Potvrda_o_zavr%C5%A1etku_te%C4%8Daja_8976.pdf).
 * My [CheckiO profile](https://py.checkio.org/user/PinoElPinguino/).
