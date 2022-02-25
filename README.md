@@ -3,9 +3,16 @@
 ## Cryptocurrency Tracking App
 <img src="https://github.com/enricokokot/my-projects/blob/main/crypto-tracker-demo.png?raw=true" width="1000">
 
-During my time as a *mobile app developer intern at Lloyds Digital* I was given the task to learn as much of the technologies they use as I can in the month that was given to me. I worked with **React Native**, **TypeScript**, MobX-State-Tree, React Query and other tools and libraries in order to create a simple multi-page mobile application for tracking cryptocurrency prices and market volume.
+During my time as a *mobile app developer intern at Lloyds Digital* I was given the task to learn as much of the technologies they use as I can in the month that was given to me. I worked with **React Native**, **TypeScript**, **MobX-State-Tree**, **React Query** and other tools and libraries in order to create a simple multi-page mobile application for tracking cryptocurrency prices and market volume.
 
 [You can find the app's source code here.](https://github.com/enricokokot/crypto-tracker-app)
+
+## Web POS App Frontend
+<img src="https://github.com/enricokokot/my-projects/blob/main/webpos-demo.gif?raw=true" width="550">
+
+I was part of a three person team in my *Computer Practicum 2* class where I was responsible for the frontend part of our web-based POS app. I mainly worked on the looks and responsiveness of our register using **TypeScript** and **React** with the help of libraries such as **MobX**, **Axios**, **Material UI** and **Bootstrap**.
+
+[The project repository can be found here.](https://github.com/i3arsu/Cashier_Software)
 
 ## Demographics of Croatia Group Project
 <p align="center">
