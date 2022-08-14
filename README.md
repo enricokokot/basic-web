@@ -1,6 +1,25 @@
 # Enrico Kokot's Portfolio
 
-## Cryptocurrency Tracking App
+## Competitive Song Guessing Web App
+
+[Quickstart video (in croatian) can be viewed here.](https://youtu.be/Za5ZmSlbl_E)
+
+For my university course *Web Apps* I created an app which is an asynchronous competitive music quiz with songs exclusivelly from the Balkans region. Players duel against each other in order to earn coins for new playlists and to achieve medals they can then append on their profile. On the frontend side I, most notably, used **Typescript**, **Vue**, **Vuetify** and **Axios**. For building the backend i used **Express** and I used **MongoDB** for hosting the database. For hosting the frontend I used **Netlify** while for the backend I used **Heroku**. For the purpose of backend testing I used **Jest**.
+
+[The app can be accessed at this location.](https://songpop-balkans.netlify.app)
+
+[You can find the app's frontend source code here.](https://github.com/enricokokot/songpop-balkans-frontend)
+[Otherwise, the app's backend source code is available here.](https://github.com/enricokokot/songpop-balkans-backend)
+
+## Web POS App Fullstack
+
+[Project presentation (in croatian) can be viewed here.](https://youtu.be/wdN5cIGjg4w)
+
+For the univeristy course **Information Systems** I created a simple POS system consisting of two interfaces: cahsier and manager. For this task I used **Python** and its libraries **Flask**, **Pony ORM**, **Jinja** and other.
+
+[You can find the app's source code including insturctions to run here.](https://github.com/enricokokot/INFSUS-PROZAD)
+
+## Cryptocurrency Tracking Mobile App
 <img src="https://github.com/enricokokot/my-projects/blob/main/crypto-tracker-demo.png?raw=true" width="1000">
 
 During my time as a *mobile app developer intern at Lloyds Digital* I was given the task to learn as much of the technologies they use as I can in the month that was given to me. I worked with **React Native**, **TypeScript**, **MobX-State-Tree**, **React Query** and other tools and libraries in order to create a simple multi-page mobile application for tracking cryptocurrency prices and market volume.
