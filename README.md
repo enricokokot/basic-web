@@ -6,7 +6,10 @@
 
 For my university course *Web Apps* I created an app which is an asynchronous competitive music quiz with songs exclusivelly from the Balkans region. Players duel against each other in order to earn coins for new playlists and to achieve medals they can then append on their profile. On the frontend side I, most notably, used **Typescript**, **Vue**, **Vuetify** and **Axios**. For building the backend i used **Express** and I used **MongoDB** for hosting the database. For hosting the frontend I used **Netlify** while for the backend I used **Heroku**. For the purpose of backend testing I used **Jest**.
 
-[The app can be accessed at this location.](https://songpop-balkans.netlify.app)
+<!--
+<del>[The app can be accessed at this location.](https://songpop-balkans.netlify.app)</del>
+-->
+Unfortunately, due to Heroku going completely pay-to-play, the app is currently not in a working state, sorry to everyone interested. :(
 
 [You can find the app's frontend source code here.](https://github.com/enricokokot/songpop-balkans-frontend)
 [Otherwise, the app's backend source code is available here.](https://github.com/enricokokot/songpop-balkans-backend)
