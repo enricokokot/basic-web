@@ -18,7 +18,7 @@ Unfortunately, due to Heroku going completely pay-to-play, the app is currently 
 
 [Project presentation (in croatian) can be viewed here.](https://youtu.be/wdN5cIGjg4w)
 
-For the univeristy course **Information Systems** I created a simple POS system consisting of two interfaces: cahsier and manager. For this task I used **Python** and its libraries **Flask**, **Pony ORM**, **Jinja** and other.
+For the univeristy course **Information Systems** I created a simple POS system consisting of two interfaces: cashier and manager. For this task I used **Python** and its libraries **Flask**, **Pony ORM**, **Jinja** and other.
 
 [You can find the app's source code including insturctions to run here.](https://github.com/enricokokot/INFSUS-PROZAD)
 
